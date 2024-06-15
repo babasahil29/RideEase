@@ -1,0 +1,69 @@
+body {
+    background-color: #f8f9fa;
+    color: #343a40;
+}
+
+.navbar-brand {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.navbar-brand .caption {
+    font-size: 0.8em;
+    font-weight: normal;
+    color: #f8f9fa;
+    margin-left: 10px;
+}
+
+.hero-section {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/hero-bg.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 100px 0;
+}
+
+.hero-section h1,
+.hero-section p {
+    color: #fff;
+}
+
+.feature-box {
+    background: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.feature-box i {
+    color: #007bff;
+}
+
+.features {
+    background: #007bff;
+    color: #fff;
+}
+
+.features h3 {
+    margin-top: 15px;
+}
+
+.features p {
+    margin-top: 10px;
+    color: #f8f9fa;
+}
+
+footer {
+    background-color: #343a40;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+footer .fa {
+    font-size: 1.5em;
+}
